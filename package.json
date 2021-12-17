@@ -40,7 +40,7 @@
     "dependencies": {
         "@shopify/draggable": "1.0.0-beta.12",
         "ember-auto-import": "^1.2.20",
-        "ember-cli-babel": "6.18.0",
+        "ember-cli-babel": "^7.26.3",
         "ember-cli-htmlbars": "^2.0.1"
     },
     "devDependencies": {
@@ -85,7 +85,8 @@
         "demoURL": "https://gavant.github.io/ember-shopify-draggable/"
     },
     "volta": {
-        "node": "10.19.0"
+        "node": "10.19.0",
+        "yarn": "1.22.17"
     },
     "publishConfig": {
         "access": "public"
